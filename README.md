@@ -1,3 +1,3 @@
-# AI & Machine Learning
-Artifical Intelligence and Machine Learning projects from courses I'd made.
-From Udacity and Udemy
+# Python, Data Science, AI & Machine Learning
+Python, Data Science, Artifical Intelligence and Machine Learning projects from courses and myself.
+
