@@ -1,3 +1,3 @@
-# Python, Data Science, AI & Machine Learning
-Python, Data Science, Artifical Intelligence and Machine Learning projects from courses and myself.
+# Python, Data Science & AI
+Python, Data Science & Artifical Intelligence exercises and projects developed .
 
