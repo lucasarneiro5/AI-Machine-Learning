@@ -1,3 +1,3 @@
-# Python, Data Science & AI
-Python, Data Science & Artifical Intelligence exercises and projects developed .
+# Machine Learning
+Machine Learning exercises and projects developed .
 
