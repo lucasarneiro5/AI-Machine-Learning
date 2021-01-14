@@ -3,7 +3,7 @@ Machine Learning exercises and projects developed by myself and following course
 
 *OBS: 
 
-" S_ " = Query files. Used to studies.
+" S_ " = Query files from courses. Used for studying.
 
-" P_ " = Projects files. Built Projects with real dataset.
+" P_ " = Projects files from courses. Building projects with real dataset.
 
